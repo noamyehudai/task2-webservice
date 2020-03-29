@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .idea ignore
+.idea
+
+# ignore this shit
+dump.rdb
+
+# Test for me
+test.py
+
 # C extensions
 *.so
 
